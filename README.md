@@ -40,11 +40,11 @@ Two Comma Separated Values (.CSV) files containing San Francisco neighborhood lo
 - **neighborhood_coordinates.csv**: contains latitude and longitude information for seventy-two San Francisco neighborhoods.
 - **sfo_neighborhoods_census_data.csv**: contains gross rent and average sale price per square foot for homes in San Francisco between 2011-2016
 
-### Analsyis Output Examples
+### Analysis Output Examples
 
-The data was loaded into pandas DataFrames and various types of analysis was conducted to determine rent and sales price trends including:
+The data was loaded into pandas DataFrames and various types of analysis were conducted to determine rent and sales price trends including:
 
-- Comparison of trends between gross rent and average sale price per year
+- Comparison of trends between gross rent and average sale price per square foot per year
 - Neighborhood analysis via interactive chart filtering
 - Visual analysis via interactive geographic mapping
 
